@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Aria's First CS193 Homework
+
+- This class's work is paced nicely
+- I go in person once a week
+- I get to learn how to navigate different tools!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
